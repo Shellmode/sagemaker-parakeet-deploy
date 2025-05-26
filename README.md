@@ -27,14 +27,9 @@ The project demonstrates how to deploy NVIDIA's Parakeet TDT 0.6B v2 speech reco
 
 ## Quick Start
 
-The simplest way to deploy the model is to follow the steps in the `sagemaker_parakeet_deploy.ipynb` notebook:
+**Just follow the steps in the `sagemaker_parakeet_deploy.ipynb` notebook to deploy.**
 
-1. Open the notebook in a SageMaker notebook instance or SageMaker Studio
-2. Run all cells in sequence to:
-   - Install dependencies
-   - Package and upload the model code
-   - Create and deploy the SageMaker endpoint
-   - Test the endpoint with the sample audio file
+
 
 ## Deployment Process
 
